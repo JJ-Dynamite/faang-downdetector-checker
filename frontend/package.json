@@ -1,5 +1,5 @@
 {
-  "name": "downdetector-checker-frontend",
+  "name": "faang-downdetector-checker-frontend",
   "version": "0.1.0",
   "private": true,
   "description": "Check if any site is down - Frontend",

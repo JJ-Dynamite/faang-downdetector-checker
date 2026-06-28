@@ -1,11 +1,11 @@
 [package]
-name = "downdetector-checker-backend"
+name = "faang-downdetector-checker-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Check if any site is down - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/downdetector-checker"
+repository = "https://github.com/JJ-Dynamite/faang-downdetector-checker"
 
 [dependencies]
 axum = "0.7"
