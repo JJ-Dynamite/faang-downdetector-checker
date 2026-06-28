@@ -1,6 +1,6 @@
 # Check if any site is down
 
-[![CI](https://github.com/JJ-Dynamite/faang-downdetector-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-downdetector-checker/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/downdetectorchecker/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/downdetectorchecker/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Check if any site is down - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-downdetector-checker.git
+git clone https://github.com/JJ-Dynamite/downdetectorchecker.git
 cd downdetector-checker
 
 # Install backend dependencies

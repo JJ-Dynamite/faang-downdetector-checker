@@ -1,4 +1,4 @@
-# Contributing to faang-downdetector-checker
+# Contributing to downdetectorchecker
 
 Thank you for your interest in contributing!
 
